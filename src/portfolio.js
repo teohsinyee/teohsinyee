@@ -21,7 +21,7 @@ const seo = {
 const greeting = {
   title: "Teoh Sin Yee",
   logo_name: "TeohSinYee",
- // nickname: "baby sayang",
+  nickname: "sinyee",
   subTitle:
     "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
   resumeLink:
@@ -320,7 +320,7 @@ const skills = {
 };
 
 // Education Page
-/*const competitiveSites = {
+const competitiveSites = {
   competitiveSites: [
     {
       siteName: "HackerRank",
@@ -363,7 +363,7 @@ const skills = {
       profileLink: "https://www.kaggle.com/laymanbrother",
     },
   ],
-};*/
+};
 
 const degrees = {
   degrees: [
@@ -382,7 +382,7 @@ const degrees = {
     },
   ],
 };
-/*
+
 const certifications = {
   certifications: [
     {
@@ -494,7 +494,7 @@ const certifications = {
       color_code: "#4285F499",
     },
   ],
-};*/
+};
 
 // Experience Page
 const experience = {
