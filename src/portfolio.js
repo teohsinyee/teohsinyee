@@ -320,7 +320,7 @@ const skills = {
 };
 
 // Education Page
-const competitiveSites = {
+/*const competitiveSites = {
   competitiveSites: [
     {
       siteName: "HackerRank",
@@ -363,26 +363,26 @@ const competitiveSites = {
       profileLink: "https://www.kaggle.com/laymanbrother",
     },
   ],
-};
+};*/
 
 const degrees = {
   degrees: [
     {
-      title: "Indian Institute of Information Technology Kurnool",
-      subtitle: "B.Tech. in Computer Engineering",
-      logo_path: "iiitk_logo.png",
-      alt_name: "IIITDM Kurnool",
-      duration: "2016 - Present",
+      title: "Universiti Sains Malaysia",
+      subtitle: "Bachelor of Computer Science (HONS)",
+      logo_path: "usm_logo.png",
+      alt_name: "USM",
+      duration: "2019 - Present",
       descriptions: [
         "⚡ I have studied basic software engineering subjects like DS, Algorithms, DBMS, OS, CA, AI etc.",
         "⚡ Apart from this, I have done courses on Deep Learning, Data Science, Cloud Computing and Full Stack Development.",
         "⚡ I was selected for Merit cum Means Scholarship which is given to top 10% of students in college. I have received award from respected director for consistently best performance in academics.",
       ],
-      website_link: "http://iiitk.ac.in",
+      website_link: "http://www.usm.my/",
     },
   ],
 };
-
+/*
 const certifications = {
   certifications: [
     {
@@ -494,7 +494,7 @@ const certifications = {
       color_code: "#4285F499",
     },
   ],
-};
+};*/
 
 // Experience Page
 const experience = {
