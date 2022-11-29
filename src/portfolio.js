@@ -21,11 +21,11 @@ const seo = {
 const greeting = {
   title: "Teoh Sin Yee",
   logo_name: "TeohSinYee",
-  nickname: "baby sayang",
+ // nickname: "baby sayang",
   subTitle:
     "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
   resumeLink:
-    "https://drive.google.com/open?id=1XYpYhLeqCdyx_q6l0bQoC7RgwQjAjXPf",
+    "https://studentusm-my.sharepoint.com/:b:/g/personal/sinyee00_student_usm_my/EYqEipMd6CBKoG_ai16cKv8B6hxAsMNpxSnIz2VBr8-paw?e=yaU2SB",
   portfolio_repository: "https://github.com/teohsinyee/masterPortfolio",
   githubProfile: "https://github.com/teohsinyee",
 };
@@ -64,12 +64,12 @@ const socialMediaLinks = [
     fontAwesomeIcon: "fa-google", // Reference https://fontawesome.com/icons/google?style=brands
     backgroundColor: "#D14836", // Reference https://simpleicons.org/?q=gmail
   },
-  {
-    name: "Twitter",
-    link: "https://twitter.com/ashutosh_1919",
-    fontAwesomeIcon: "fa-twitter", // Reference https://fontawesome.com/icons/twitter?style=brands
-    backgroundColor: "#1DA1F2", // Reference https://simpleicons.org/?q=twitter
-  },
+ // {
+ //   name: "Twitter",
+  //  link: "https://twitter.com/ashutosh_1919",
+   // fontAwesomeIcon: "fa-twitter", // Reference https://fontawesome.com/icons/twitter?style=brands
+  //  backgroundColor: "#1DA1F2", // Reference https://simpleicons.org/?q=twitter
+ // },
   {
     name: "Facebook",
     link: "https://www.facebook.com/csteohsinyee/",
