@@ -712,9 +712,9 @@ const contactPageData = {
   addressSection: {
     title: "Address",
     subtitle:
-      "Ambavadi vas, Kanodar, T.A.-Palanpur, Dist.-Banaskantha, Gujarat - 385520",
+      "Penang, Malaysia",
     avatar_image_path: "address_image.svg",
-    location_map_link: "https://goo.gl/maps/MpMqtRZytFchMkZ76",
+    //location_map_link: "https://goo.gl/maps/MpMqtRZytFchMkZ76",
   },
   phoneSection: {
     title: "Phone Number",
