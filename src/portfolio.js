@@ -383,7 +383,7 @@ const degrees = {
   ],
 };
 
-const certifications = {
+/*const certifications = {
   certifications: [
     {
       title: "Machine Learning",
@@ -494,7 +494,7 @@ const certifications = {
       color_code: "#4285F499",
     },
   ],
-};
+};*/
 
 // Experience Page
 const experience = {
