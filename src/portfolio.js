@@ -370,7 +370,7 @@ const degrees = {
     {
       title: "Universiti Sains Malaysia",
       subtitle: "Bachelor of Computer Science (HONS)",
-      logo_path: "usm_logo.png",
+      logo_path: "usm_logo.jpeg",
       alt_name: "USM",
       duration: "2019 - Present",
       descriptions: [
