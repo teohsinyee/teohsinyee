@@ -730,7 +730,7 @@ export {
   skills,
   competitiveSites,
   degrees,
-  certifications,
+  //certifications,
   experience,
   projectsHeader,
   publicationsHeader,
