@@ -320,7 +320,7 @@ const skills = {
 };
 
 // Education Page
-const competitiveSites = {
+/*const competitiveSites = {
   competitiveSites: [
     {
       siteName: "HackerRank",
@@ -364,7 +364,7 @@ const competitiveSites = {
     },
   ],
 };
-
+*/
 const degrees = {
   degrees: [
     {
@@ -728,7 +728,7 @@ export {
   greeting,
   socialMediaLinks,
   skills,
-  competitiveSites,
+  //competitiveSites,
   degrees,
   //certifications,
   experience,
