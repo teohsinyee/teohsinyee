@@ -1,0 +1,60 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Sinyee profile banner</title>
+  <desc id="desc">A structured banner for Sinyee featuring documentation, review, and AI-native systems.</desc>
+
+  <rect width="1200" height="360" rx="32" fill="#F5EFE5"/>
+
+  <g opacity="0.45">
+    <path d="M0 72H1200" stroke="#D9CCBA"/>
+    <path d="M0 144H1200" stroke="#D9CCBA"/>
+    <path d="M0 216H1200" stroke="#D9CCBA"/>
+    <path d="M0 288H1200" stroke="#D9CCBA"/>
+    <path d="M100 0V360" stroke="#D9CCBA"/>
+    <path d="M200 0V360" stroke="#D9CCBA"/>
+    <path d="M300 0V360" stroke="#D9CCBA"/>
+    <path d="M400 0V360" stroke="#D9CCBA"/>
+    <path d="M500 0V360" stroke="#D9CCBA"/>
+    <path d="M600 0V360" stroke="#D9CCBA"/>
+    <path d="M700 0V360" stroke="#D9CCBA"/>
+    <path d="M800 0V360" stroke="#D9CCBA"/>
+    <path d="M900 0V360" stroke="#D9CCBA"/>
+    <path d="M1000 0V360" stroke="#D9CCBA"/>
+    <path d="M1100 0V360" stroke="#D9CCBA"/>
+  </g>
+
+  <rect x="40" y="40" width="280" height="280" rx="28" fill="#112033"/>
+  <rect x="64" y="64" width="232" height="76" rx="18" fill="#EA643B"/>
+  <rect x="64" y="154" width="168" height="54" rx="16" fill="#F0B44D"/>
+  <rect x="242" y="154" width="54" height="54" rx="16" fill="#6FA89C"/>
+  <rect x="64" y="222" width="232" height="74" rx="18" stroke="#F5EFE5" stroke-width="2"/>
+
+  <text x="84" y="111" fill="#112033" font-size="34" font-family="'Segoe UI', Arial, sans-serif" font-weight="700" letter-spacing="1.5">DOCS</text>
+  <text x="84" y="189" fill="#112033" font-size="22" font-family="'Segoe UI', Arial, sans-serif" font-weight="700" letter-spacing="1.2">REVIEW</text>
+  <text x="84" y="255" fill="#F5EFE5" font-size="18" font-family="'Segoe UI', Arial, sans-serif" font-weight="700" letter-spacing="1.4">HANDOVER READY</text>
+  <text x="84" y="282" fill="#D4DCE5" font-size="16" font-family="'Segoe UI', Arial, sans-serif">systems for humans and AI</text>
+
+  <circle cx="1090" cy="68" r="28" fill="#112033"/>
+  <circle cx="1090" cy="68" r="12" fill="#F5EFE5"/>
+  <circle cx="1026" cy="122" r="16" fill="#EA643B"/>
+  <circle cx="1142" cy="130" r="10" fill="#6FA89C"/>
+  <path d="M1020 72C1020 72 1064 128 1140 120" stroke="#112033" stroke-width="2.5"/>
+
+  <text x="356" y="88" fill="#112033" font-size="18" font-family="'Segoe UI', Arial, sans-serif" font-weight="700" letter-spacing="3.2">SINYEE</text>
+  <text x="356" y="150" fill="#112033" font-size="42" font-family="Georgia, 'Times New Roman', serif" font-weight="700">I keep the complexity.</text>
+  <text x="356" y="200" fill="#112033" font-size="42" font-family="Georgia, 'Times New Roman', serif" font-weight="700">You get the clarity.</text>
+
+  <text x="356" y="248" fill="#344256" font-size="22" font-family="'Segoe UI', Arial, sans-serif">
+    <tspan x="356" dy="0">Documentation, review, knowledge systems, and AI-native</tspan>
+    <tspan x="356" dy="32">workflows built to survive handovers.</tspan>
+  </text>
+
+  <rect x="356" y="292" width="168" height="34" rx="17" fill="#112033"/>
+  <rect x="534" y="292" width="166" height="34" rx="17" fill="#EA643B"/>
+  <rect x="710" y="292" width="154" height="34" rx="17" fill="#F0B44D"/>
+  <rect x="874" y="292" width="180" height="34" rx="17" fill="#6FA89C"/>
+
+  <text x="440" y="314" fill="#F5EFE5" font-size="13" font-family="'Segoe UI', Arial, sans-serif" font-weight="700" text-anchor="middle">DOCUMENTATION</text>
+  <text x="617" y="314" fill="#112033" font-size="13" font-family="'Segoe UI', Arial, sans-serif" font-weight="700" text-anchor="middle">REVIEW MINDSET</text>
+  <text x="787" y="314" fill="#112033" font-size="13" font-family="'Segoe UI', Arial, sans-serif" font-weight="700" text-anchor="middle">DX AND KB</text>
+  <text x="964" y="314" fill="#112033" font-size="13" font-family="'Segoe UI', Arial, sans-serif" font-weight="700" text-anchor="middle">AI-READY SYSTEMS</text>
+</svg>
